@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+WhatToCookPackage/__init__.py
+WhatToCookPackage/pdftest.py
+WhatToCookPackage.egg-info/PKG-INFO
+WhatToCookPackage.egg-info/SOURCES.txt
+WhatToCookPackage.egg-info/dependency_links.txt
+WhatToCookPackage.egg-info/requires.txt
+WhatToCookPackage.egg-info/top_level.txt
